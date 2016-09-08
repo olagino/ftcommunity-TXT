@@ -30,7 +30,7 @@ programming environments like e.g. [Snap! or Scratch](https://en.wikipedia.org/w
 
 ## (German) Forum 
 
-Most discussions around the community firmware take place in the [FTCommunity forum)](http://forum.ftcommunity.de/viewforum.php?f=8). This is a german forum but english contributions are welcome.
+Most discussions around the community firmware take place in the [(FTCommunity forum)](http://forum.ftcommunity.de/viewforum.php?f=8). This is a german forum but english contributions are welcome.
 
 # Usage
 
